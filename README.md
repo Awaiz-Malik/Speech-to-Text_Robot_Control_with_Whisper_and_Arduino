@@ -3,6 +3,11 @@
 ## Overview
 This project implements a voice-controlled robot using Python and Arduino. The robot responds to voice commands, performs various actions, and can be controlled through a physical body connected via serial communication.
 
+This Project is combined effort of my members
+  - [Talha Shakeel](https://github.com/cls-talha)
+  - Bilal Abid
+  - Muhammad Amjad Mehmood
+
 ## Features
 - Voice recognition using the `whisper` library.
 - Text-to-speech using `pyttsx3` for natural interaction.
@@ -43,6 +48,6 @@ This project implements a voice-controlled robot using Python and Arduino. The r
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- Thanks to [whisper](https://pypi.org/project/whisper/) for providing speech-to-text capabilities.
+- Thanks to [whisper](https://github.com/openai/whisper) for providing speech-to-text capabilities.
 
 Feel free to contribute or report issues!
