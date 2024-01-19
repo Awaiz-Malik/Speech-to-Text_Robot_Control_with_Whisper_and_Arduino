@@ -44,6 +44,10 @@ This Project is combined effort of my members
 ## Customization
 - You can customize wake-up word, commands, and actions as needed.
 
+## Project Demonstration
+https://github.com/Awaiz-Malik/Speech-to-Text_Robot_Control_with_Whisper_and_Arduino/assets/115945150/20626de2-5e85-494e-a6bd-0c27ca1afec8
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
